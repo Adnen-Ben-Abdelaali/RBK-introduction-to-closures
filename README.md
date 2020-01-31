@@ -1,1 +1,3 @@
-# RBK-introduction-to-closures
+# RBK-introduction-to-closures    
+
+Exercices implemeting closures
